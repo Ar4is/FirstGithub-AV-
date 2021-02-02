@@ -17,7 +17,6 @@ git push origin main             # augšupielādēt repozitoriju
 git config user.name ''Artūrs Vaļuks'''
 git config user.email ''artursvaluks@inbox.lv''
 
-
+```
 ## Status
 Viss ir baigi forši
-```
