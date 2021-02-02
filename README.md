@@ -20,3 +20,18 @@ git config user.email ''artursvaluks@inbox.lv''
 ```
 ## Status
 Viss ir baigi forši
+
+
+## Tabula 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
+```
+{
+  "firstName": "Artūrs",
+  "lastName": "Vaļuks",
+  "age": 17
+}
+``` 
